@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/8681666/month-without-leading-zeros-in-android
+
+https://stackoverflow.com/questions/10598137/rawqueryquery-selectionargs
+
+https://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper
+
+https://developer.android.com/reference/java/util/Calendar
+
+https://stackoverflow.com/questions/15111402/how-can-i-create-a-border-around-an-android-linearlayout
+
+youtube tutorial:
+https://www.youtube.com/watch?v=hJPk50p7xwA&list=RDCMUCYLAirIEMMXtWOECuZAtjqQ&index=8

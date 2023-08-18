@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <CalendarView
+        android:id="@+id/calendar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="80dp" />
+
+    <TextView
+        android:id="@+id/date_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="160dp"
+        android:layout_marginTop="25dp"
+        android:text="@string/selected_date" />
+
+    <TextView
+        android:id="@+id/StudyPlanCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="500dp"
+        android:ems="10"
+        android:minHeight="30dp"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/ExamCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="600dp"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/AssignmentCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="550dp"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/LectureCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="650dp"
+        android:text="@string/hello_blank_fragment" />
+
+    <TextView
+        android:id="@+id/assignmentbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="550dp"
+        android:text="Assignments :" />
+
+    <TextView
+        android:id="@+id/exambox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="600dp"
+        android:text="Exams :" />
+
+    <TextView
+        android:id="@+id/studyplanbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="500dp"
+        android:text="StudyPlans :" />
+
+    <TextView
+        android:id="@+id/lecturebox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="650dp"
+        android:text="Lectures :" />
+
+</RelativeLayout>

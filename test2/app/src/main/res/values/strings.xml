@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="tab1">Study Plan</string>
+    <string name="tab2">Assignment</string>
+    <string name="tab3">Exam</string>
+    <string name="tab4">Lecture</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Description</string>
+    <string name="add">ADD</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+    <string name="textview">TextView</string>
+    <string name="selected_date">Selected Date</string>
+</resources>
